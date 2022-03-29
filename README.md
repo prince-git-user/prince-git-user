@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React ,JavaScript,NodeJS,Express,Mongo Db,HTML,CSS**
 
-- 👨‍💻 All of my projects are available at [https://prince-kumar-1385.netlify.app/](https://prince-kumar-1385.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://prince-kumar-1000.netlify.app/](https://prince-kumar-1000.netlify.app/)
 
 - 💬 Ask me about **React,JavaScript**
 
